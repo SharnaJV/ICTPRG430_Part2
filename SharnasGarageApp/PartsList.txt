@@ -1,0 +1,10 @@
+1, Motor, $3000
+2, Fan belt, $200
+3, Radiator, $800
+4, Tyre, $70
+5, Windscreen Wiper, $5
+6, Battery, $100
+7, Ignition Coil, $50
+8, Brake Pad, $140
+9, Steering Wheel, $70
+0, Transmission, $5000
